@@ -6,6 +6,9 @@
 .NOTES 
    Version: 0.29
    Author: UECC, Henrik Næss
+   Version: 0.30
+   Author: UECC, Chellakkannan
+   Desc:Added to Github
 #> 
 
 #$zipPath = "C:\work\PortableApps\PortableApps\7-ZipPortable\App\7-Zip64\7z.exe"		#LOCAL
